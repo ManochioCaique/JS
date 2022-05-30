@@ -1,4 +1,5 @@
 # Comandos de JAVASCRIPT
+## Aula 4
 
 #### - Colaca um alerta na página:
 
@@ -11,3 +12,10 @@
 #### - Faz uma janela com uma pergunta:
 
 **window.prompt()**
+
+
+## Aula 5
+
+#### - Saber o tipo de variável
+
+**typeof**
