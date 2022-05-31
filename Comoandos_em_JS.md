@@ -46,3 +46,6 @@
 
 **x.toFixed(números de casas decimais que quero)** - para definir o numero de casa decimais após a vírgula
 
+
+
+
